@@ -3,21 +3,21 @@ var personas = [
     {
         nombre: 'Pepito',
         apellido: 'Perez',
-        edad: 15, 
+        edad: 25, 
         estatura: 1.8,
         libros: 12
     },
     {
-        nombre: 'Asly',
+        nombre: 'Erica',
         apellido: 'Perez',
-        edad: 15, 
+        edad: 19, 
         estatura: 1.5,
         libros: 18
     },
     {
         nombre: 'Camilo',
         apellido: 'Perez',
-        edad: 15, 
+        edad: 18, 
         estatura: 1.75,
         libros: 25
     },
